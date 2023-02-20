@@ -44,7 +44,7 @@ fun BirthdayGreeting(message: String, from: String) {
                 verticalArrangement = Arrangement.Top,
                 horizontalAlignment = Alignment.CenterHorizontally) {
             Text(text = message, modifier = Modifier.padding(top = 16.dp), fontSize = 24.sp)
-            Text(text = from, modifier = Modifier.align(alignment = Alignment.End) , fontSize = 16.sp)
+            Text(text = from , fontSize = 16.sp)
         }
     }
 }
