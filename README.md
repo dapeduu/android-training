@@ -15,3 +15,7 @@ Each practice problem will be on a different module.
 ### Compose Article
 
 ![Compose Article running on emulator](./docs/compose-article.png)
+
+### Task Manager
+
+![Task Manager running on emulator](./docs/task-manager.png)

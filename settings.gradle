@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Greetings"
 include ':app'
 include ':composearticle'
+include ':task_manager'
